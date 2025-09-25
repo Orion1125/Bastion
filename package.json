@@ -1,0 +1,14 @@
+{
+  "name": "bastion",
+  "version": "0.1.0",
+  "description": "Minimal Bastion smart-account injected provider (demo implementation)",
+  "main": "src/provider.js",
+  "scripts": {
+    "test": "node test/test-provider.js"
+  },
+  "keywords": ["bastion","wallet","provider","account-abstraction","injected"],
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
